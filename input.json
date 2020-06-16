@@ -1,0 +1,17 @@
+{
+  "operation_number": 1,
+  "input_array": [
+    {
+      "command": "append",
+      "number": 23
+    },
+    {
+      "command": "multiply",
+      "number": 2
+    },
+    {
+      "command": "power",
+      "number": 5
+    }
+  ]
+}
